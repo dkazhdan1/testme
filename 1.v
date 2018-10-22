@@ -1,0 +1,433 @@
+   Id Name                             Prov Type  CopyOf                       BsId Rd -Detailed_State-    Adm     Snp       Usr     VSize
+    1 .srdata                          full base  ---                             1 RW normal                0       0     61440     61440
+ 5616 3par-tor-ao-adhoc-ds01           tpvv base  ---                          5616 RW normal             1920       0   2191232   4194304
+ 1214 3par-tor-ao-ora-ds01             tpvv base  ---                          1214 RW normal             1024       0   1209344   2097152
+ 1397 3par-tor-ao-ora-ds02             tpvv base  ---                          1397 RW normal              384       0    135040   2097152
+  262 3par-tor-ao-poc-ds01             tpvv base  ---                           262 RW normal             1152       0   1326464   2097152
+   35 3par-tor-ao-prod-ds01            tpvv base  ---                            35 RW normal             2048       0   2651776   4194304
+   36 3par-tor-ao-prod-ds02            tpvv base  ---                            36 RW normal             1408       0   1931904   4194304
+   76 3par-tor-ao-prod-ds03            tpvv base  ---                            76 RW normal             1408       0   1654656   4194304
+  246 3par-tor-ao-prod-ds04            tpvv base  ---                           246 RW normal             1408       0   1783168   4194304
+  247 3par-tor-ao-prod-ds05            tpvv base  ---                           247 RW normal             1664       0   1911680   4194304
+  465 3par-tor-ao-prod-ds06            tpvv base  ---                           465 RW normal             1920       0   2440960   4194304
+  466 3par-tor-ao-prod-ds07            tpvv base  ---                           466 RW normal             1920       0   2470272   4194304
+  766 3par-tor-ao-prod-ds08            tpvv base  ---                           766 RW normal             1920       0   2182144   4194304
+ 1054 3par-tor-ao-prod-ds09            tpvv base  ---                          1054 RW normal             1920       0   2425216   4194304
+ 1193 3par-tor-ao-prod-ds10            tpvv base  ---                          1193 RW normal             2048       0   2533888   4194304
+ 1194 3par-tor-ao-prod-ds11            tpvv base  ---                          1194 RW normal             1920       0   2324224   4194304
+ 1195 3par-tor-ao-prod-ds12            tpvv base  ---                          1195 RW normal             2048       0   2721152   4194304
+ 1618 3par-tor-ao-prod-ds13            tpvv base  ---                          1618 RW normal             2304       0   2591488   4194304
+ 2323 3par-tor-ao-prod-ds14            tpvv base  ---                          2323 RW normal             2048       0   1911424   4194304
+ 2342 3par-tor-ao-prod-ds15            tpvv base  ---                          2342 RW normal             2304       0   2966784   4194304
+ 2361 3par-tor-ao-prod-ds16            tpvv base  ---                          2361 RW normal             1536       0   1817344   4194304
+ 2893 3par-tor-ao-prod-ds17            tpvv base  ---                          2893 RW normal             1792       0   2353536   4194304
+ 2894 3par-tor-ao-prod-ds18            tpvv base  ---                          2894 RW normal             1664       0   2049536   4194304
+ 2895 3par-tor-ao-prod-ds19            tpvv base  ---                          2895 RW normal             1920       0   2284032   4194304
+ 3849 3par-tor-ao-prod-ds20            tpvv base  ---                          3849 RW normal             1920       0   1987328   4194304
+ 6864 3par-tor-ao-prod-ds21            tpvv base  ---                          6864 RW normal             2048       0   2496512   4194304
+ 6865 3par-tor-ao-prod-ds22            tpvv base  ---                          6865 RW normal             1792       0   2338688   4194304
+ 6866 3par-tor-ao-prod-ds23            tpvv base  ---                          6866 RW normal             2304       0   2365056   4194304
+ 6868 3par-tor-ao-prod-ds24            tpvv base  ---                          6868 RW normal             2304       0   2765056   4194304
+16401 3par-tor-ao-prod-ds25            tpvv base  ---                         16401 RW normal             1280       0   1568512   4194304
+16402 3par-tor-ao-prod-ds26            tpvv base  ---                         16402 RW normal             1792       0   2095744   4194304
+21472 3par-tor-ao-prod-ds27            tpvv base  ---                         21472 RW normal             1920       0   2365824   4194304
+21473 3par-tor-ao-prod-ds28            tpvv base  ---                         21473 RW normal             2048       0   2542464   4194304
+   43 3par-tor-ao-prod-idr-ds01        tpvv base  ---                            43 RW normal             1536       0   1980544   4194304
+   44 3par-tor-ao-prod-idr-ds02        tpvv base  ---                            44 RW normal             1536       0   2001152   4194304
+ 1360 3par-tor-ao-prod-idr-ds03        tpvv base  ---                          1360 RW normal             1920       0   2585600   4194304
+ 3632 3par-tor-ao-prod-idr-ds04        tpvv base  ---                          3632 RW normal             2304       0   2640000   4194304
+36533 3par-tor-ao-prod-idr-ds05        tpvv base  ---                         36533 RW normal             1024       0    986880   4194304
+60518 3par-tor-ao-prod-idr-ds06        tpvv base  ---                         60518 RW normal              640       0    458880   4194304
+60519 3par-tor-ao-prod-idr-ds07        tpvv base  ---                         60519 RW normal              512       0    204672   4194304
+43421 3par-tor-ao-prod-wintel-ds01     tpvv base  ---                         43421 RW normal             1792       0   2271744   4194304
+43422 3par-tor-ao-prod-wintel-ds02     tpvv base  ---                         43422 RW normal             2432       0   3298560   4194304
+43423 3par-tor-ao-prod-wintel-ds03     tpvv base  ---                         43423 RW normal             1408       0   1326464   4194304
+43424 3par-tor-ao-prod-wintel-ds04     tpvv base  ---                         43424 RW normal             1024       0   1068544   4194304
+   38 3par-tor-cap1-main-rdm01         tpvv base  ---                            38 RW normal              768    8064    508416   1048576
+   40 3par-tor-cap2-main-rdm01         tpvv base  ---                            40 RW normal              896    8064    606720   1048576
+33397 3par-tor-ccm-db-ccmna-dumpload   tpvv base  ---                         33397 RW normal              256       0      2560   1843200
+33396 3par-tor-ccm-db-ccmna-rdm01      tpvv base  ---                         33396 RW normal              768     512    715776    921600
+  418 3par-tor-dep1-prod1-rdm01        tpvv base  ---                           418 RW normal              384    8064    107008    307200
+49439 3par-tor-euidr-db-rdm01          tpvv base  ---                         49439 RW normal              384    8064    113152    409600
+54489 3par-tor-iflcs4-db-rdm01         tpvv base  ---                         54489 RW normal              256     512      2560    512000
+54490 3par-tor-iflcs4-db-rdm02         tpvv base  ---                         54490 RW normal              128     512      2560    512000
+54491 3par-tor-iflcs4-db-rdm03         tpvv base  ---                         54491 RW normal              512     512    315904    512000
+54492 3par-tor-iflcs4-db-rdm04         tpvv base  ---                         54492 RW normal              512     512    463360    512000
+54493 3par-tor-iflcs4-db-rdm05         tpvv base  ---                         54493 RW normal              512     512    453120    512000
+54494 3par-tor-iflcs4-db-rdm06         tpvv base  ---                         54494 RW normal              512     512    468480    512000
+55548 3par-tor-inacytest-db-rdm01      tpvv base  ---                         55548 RW normal             3072 1504512   1074048   2097152
+62149  vvprom.55649.55548.backup       snp  vcopy 3par-tor-inacytest-db-rdm01 55548 RO normal               --      --        --   2097152
+62901  vvprom.55649.55548.backup.2     snp  vcopy 3par-tor-inacytest-db-rdm01 55548 RO normal               --      --        --   2097152
+55649  inacytest.golden                snp  vcopy 3par-tor-inacytest-db-rdm01 55548 RW normal               --      --        --   2097152
+63028  vvprom.55649.55548.backup.3     snp  vcopy 3par-tor-inacytest-db-rdm01 55548 RO normal               --      --        --   2097152
+63125  vvprom.55649.55548.backup.4     snp  vcopy 3par-tor-inacytest-db-rdm01 55548 RO normal               --      --        --   2097152
+55550 3par-tor-inacytest-main-rdm01    tpvv base  ---                         55550 RW normal              384     512    190976    409600
+55549 3par-tor-inacytest-output-rdm01  tpvv base  ---                         55549 RW normal              256     512     94720    204800
+48409 3par-tor-inapoc-db-rdm01         tpvv base  ---                         48409 RW normal             1792    8064   1117312   1433600
+42617 3par-tor-mifconv-rdm01           tpvv base  ---                         42617 RW normal             1536    8320   1085952   1638400
+66258  mifconvbackup.20180728          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66260  mifconvbackup.20180729          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66262  mifconvbackup.20180730          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66355  mifconvbackup.20180731          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66452  mifconvbackup.20180801          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66545  mifconvbackup.20180802          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+66638  mifconvbackup.20180803          snp  vcopy 3par-tor-mifconv-rdm01      42617 RW normal               --      --        --   1638400
+48128 3par-tor-mifidr-db-rdm01         tpvv base  ---                         48128 RW normal             2816  179328    827392   1433600
+65763  mifidr_db_2018202_0330          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+65884  mifidr_db_2018205_0044          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+65977  mifidr_db_2018206_0038          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66070  mifidr_db_2018207_0041          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66163  mifidr_db_2018208_0129          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66256  mifidr_db_2018209_0044          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66353  mifidr_db_2018212_0049          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66450  mifidr_db_2018213_0117          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66543  mifidr_db_2018214_0109          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+66636  mifidr_db_2018215_0032          snp  vcopy 3par-tor-mifidr-db-rdm01    48128 RO normal               --      --        --   1433600
+30677 3par-tor-mifload-db-rdm01        tpvv base  ---                         30677 RW normal             2688   19712    920960   1228800
+30680  3par-tor-mifrecon-db-rdm01      snp  vcopy 3par-tor-mifload-db-rdm01   30677 RW normal               --      --        --   1228800
+30678 3par-tor-mifload2-db-rdm01       tpvv base  ---                         30678 RW normal             1536    8064    881920   1228800
+42616 3par-tor-mifload3-db-rdm01       tpvv base  ---                         42616 RW normal             2560    8064    905344   1228800
+49103 3par-tor-mifyea-db-rdm01         tpvv base  ---                         49103 RW normal              896    8064    742400   1228800
+49104 3par-tor-mmfyea-db-rdm01         tpvv base  ---                         49104 RW normal             1024    8064   1086976   1638400
+37174 3par-tor-pcbconv-rdm01           tpvv base  ---                         37174 RW normal              384       0    236032    409600
+37173 3par-tor-pemconv-rdm01           tpvv base  ---                         37173 RW normal              512       0    369152    409600
+42229 3par-tor-perfq1-aft-rdm          tpvv base  ---                         42229 RW normal              384     512    184832    256000
+42228 3par-tor-perfq1-main-rdm         tpvv base  ---                         42228 RW normal              256     512     14848    307200
+42230 3par-tor-perfq1-slf-rdm          tpvv base  ---                         42230 RW normal              384    8320     27136    153600
+49537  3par-tor-perfq1-slf-rdm-Nov17   snp  vcopy 3par-tor-perfq1-slf-rdm     42230 RW normal               --      --        --    153600
+50033  3par-tor-perfq1-slf-rdm-17.5    snp  vcopy 3par-tor-perfq1-slf-rdm     42230 RW normal               --      --        --    153600
+52469  3par-tor-perfq1-slf-rdm-Jan4    snp  vcopy 3par-tor-perfq1-slf-rdm     42230 RW normal               --      --        --    153600
+42231 3par-tor-perfq1-sun-rdm          tpvv base  ---                         42231 RW normal              384    8320     45568    204800
+49539  3par-tor-perfq1-sun-rdm-Nov17   snp  vcopy 3par-tor-perfq1-sun-rdm     42231 RW normal               --      --        --    204800
+50035  3par-tor-perfq1-sun-rdm-17.5    snp  vcopy 3par-tor-perfq1-sun-rdm     42231 RW normal               --      --        --    204800
+52471  3par-tor-perfq1-sun-rdm-Jan4    snp  vcopy 3par-tor-perfq1-sun-rdm     42231 RW normal               --      --        --    204800
+27153 3par-tor-ssd-adhoc-ds01          tpvv base  ---                         27153 RW normal             1152       0   1470464   4194304
+45974 3par-tor-ssd-dev-ds01            tpvv base  ---                         45974 RW normal             2560       0   3443456   4194304
+45975 3par-tor-ssd-dev-ds02            tpvv base  ---                         45975 RW normal             1792       0   2393600   4194304
+48502 3par-tor-ssd-dev-ds03            tpvv base  ---                         48502 RW normal             1152       0   1427456   4194304
+42984 3par-tor-ssd-dsx-rdm01           tpvv base  ---                         42984 RW normal              256     512     48128    512000
+42985 3par-tor-ssd-dsx-rdm02           tpvv base  ---                         42985 RW normal              256     512    121344   1048576
+  664 3par-tor-ssd-poc-ds01            tpvv base  ---                           664 RW normal             2176       0   2168704   4194304
+17094 3par-tor-ssd-poc-ds02            tpvv base  ---                         17094 RW normal              896       0    843264   2097152
+ 1493 3par-tor-ssd-prod-citrix-ds01    tpvv base  ---                          1493 RW normal              256       0     67072   4194304
+22253 3par-tor-ssd-prod-ds01           tpvv base  ---                         22253 RW normal             2304     512   3138048   4194304
+22254 3par-tor-ssd-prod-ds02           tpvv base  ---                         22254 RW normal             2176     512   3016448   4194304
+42983 3par-tor-ssd-prod-dsx-ds01       tpvv base  ---                         42983 RW normal              384     512    150016   4194304
+48784 3par-tor-ssd-rhevdev-ds01        tpvv base  ---                         48784 RW normal             1024       0   1227264   2097152
+53641 3par-tor-ssd-rhevdev-ds02        tpvv base  ---                         53641 RW normal              256       0     16896   2097152
+31018 3par-tor-sunp2-output-rdm01      tpvv base  ---                         31018 RW normal              256       0     57728    204800
+    0 admin                            full base  ---                             0 RW normal                0       0     10240     10240
+ 2364 cfxunix_vg_cibc_01               tpvv base  ---                          2364 RW normal              384   62848     89088    102400
+37168  cfxunix_vg_cibc_01_20170618     snp  vcopy cfxunix_vg_cibc_01           2364 RW normal               --      --        --    102400
+17264 cfxunix_vg_cibc_onl              tpvv base  ---                         17264 RW normal              384   12160      6656     20480
+37172  cfxunix_vg_cibc_onl_20170619    snp  vcopy cfxunix_vg_cibc_onl         17264 RW normal               --      --        --     20480
+20698  cfxunix_vg_cibc_bat             snp  vcopy cfxunix_vg_cibc_onl         17264 RW normal               --      --        --     20480
+33389  cfxunix_vg_cibc_pre             snp  vcopy cfxunix_vg_cibc_onl         17264 RW normal               --      --        --     20480
+33391  cfxunix_vg_cibc_post            snp  vcopy cfxunix_vg_cibc_onl         17264 RW normal               --      --        --     20480
+17265 cfxunix_vg_cibc_sys              tpvv base  ---                         17265 RW normal              384    1536      2048     10240
+37170  cfxunix_vg_cibc_sys_20170619    snp  vcopy cfxunix_vg_cibc_sys         17265 RW normal               --      --        --     10240
+33393  cfxunix_vg_cibc_sys1_pre        snp  vcopy cfxunix_vg_cibc_sys         17265 RW normal               --      --        --     10240
+33395  cfxunix_vg_cibc_sys1_post       snp  vcopy cfxunix_vg_cibc_sys         17265 RW normal               --      --        --     10240
+ 2362 cfxunix_vg_devel_01              tpvv base  ---                          2362 RW normal              384   24064    103040    102400
+37164  cfxunix_vg_devel_01_20170618    snp  vcopy cfxunix_vg_devel_01          2362 RW normal               --      --        --    102400
+ 2363 cfxunix_vg_devel_02              tpvv base  ---                          2363 RW normal              384   88448    103040    102400
+37166  cfxunix_vg_devel_02_20170618    snp  vcopy cfxunix_vg_devel_02          2363 RW normal               --      --        --    102400
+ 1754 cib_db_onl_01                    tpvv base  ---                          1754 RW normal             4736  156288    102912    102400
+64495  vvprom.1841.1754.backup.40      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+64588  vvprom.1841.1754.backup.41      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+64681  vvprom.1841.1754.backup.42      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+64774  vvprom.1841.1754.backup.43      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+64871  vvprom.1841.1754.backup.44      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+64964  vvprom.1841.1754.backup.45      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65057  vvprom.1841.1754.backup.46      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65150  vvprom.1841.1754.backup.47      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65243  vvprom.1841.1754.backup.48      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65340  vvprom.1841.1754.backup.49      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65434  vvprom.1841.1754.backup         snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65528  vvprom.1841.1754.backup.2       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65620  vvprom.1841.1754.backup.3       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65713  vvprom.1841.1754.backup.4       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65834  vvprom.1841.1754.backup.5       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+65927  vvprom.1841.1754.backup.6       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66020  vvprom.1841.1754.backup.7       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66113  vvprom.1841.1754.backup.8       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66206  vvprom.1841.1754.backup.9       snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66303  vvprom.1841.1754.backup.10      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66400  vvprom.1841.1754.backup.11      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+66493  vvprom.1841.1754.backup.12      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+ 1841  cib_db_bat_01                   snp  vcopy cib_db_onl_01                1754 RW normal               --      --        --    102400
+ 2390  cib_db_pre_01                   snp  vcopy cib_db_onl_01                1754 RW normal               --      --        --    102400
+66586  vvprom.1841.1754.backup.13      snp  vcopy cib_db_onl_01                1754 RO normal               --      --        --    102400
+ 2404  cib_db_post_01                  snp  vcopy cib_db_onl_01                1754 RW normal               --      --        --    102400
+ 1755 cib_db_onl_02                    tpvv base  ---                          1755 RW normal             1664   41472     78336    102400
+64499  vvprom.1843.1755.backup.40      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+64592  vvprom.1843.1755.backup.41      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+64685  vvprom.1843.1755.backup.42      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+64778  vvprom.1843.1755.backup.43      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+64875  vvprom.1843.1755.backup.44      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+64968  vvprom.1843.1755.backup.45      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65061  vvprom.1843.1755.backup.46      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65154  vvprom.1843.1755.backup.47      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65247  vvprom.1843.1755.backup.48      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65344  vvprom.1843.1755.backup.49      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65438  vvprom.1843.1755.backup         snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65532  vvprom.1843.1755.backup.2       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65624  vvprom.1843.1755.backup.3       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65717  vvprom.1843.1755.backup.4       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65838  vvprom.1843.1755.backup.5       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+65931  vvprom.1843.1755.backup.6       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66024  vvprom.1843.1755.backup.7       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66117  vvprom.1843.1755.backup.8       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66210  vvprom.1843.1755.backup.9       snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66307  vvprom.1843.1755.backup.10      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66404  vvprom.1843.1755.backup.11      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+66497  vvprom.1843.1755.backup.12      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+ 1843  cib_db_bat_02                   snp  vcopy cib_db_onl_02                1755 RW normal               --      --        --    102400
+ 2392  cib_db_pre_02                   snp  vcopy cib_db_onl_02                1755 RW normal               --      --        --    102400
+66590  vvprom.1843.1755.backup.13      snp  vcopy cib_db_onl_02                1755 RO normal               --      --        --    102400
+ 2406  cib_db_post_02                  snp  vcopy cib_db_onl_02                1755 RW normal               --      --        --    102400
+ 1756 cib_db_onl_03                    tpvv base  ---                          1756 RW normal             2304   68608     80384    102400
+64503  vvprom.1845.1756.backup.40      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+64596  vvprom.1845.1756.backup.41      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+64689  vvprom.1845.1756.backup.42      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+64782  vvprom.1845.1756.backup.43      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+64879  vvprom.1845.1756.backup.44      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+64972  vvprom.1845.1756.backup.45      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65065  vvprom.1845.1756.backup.46      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65158  vvprom.1845.1756.backup.47      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65251  vvprom.1845.1756.backup.48      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65348  vvprom.1845.1756.backup.49      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65442  vvprom.1845.1756.backup         snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65536  vvprom.1845.1756.backup.2       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65628  vvprom.1845.1756.backup.3       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65721  vvprom.1845.1756.backup.4       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65842  vvprom.1845.1756.backup.5       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+65935  vvprom.1845.1756.backup.6       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66028  vvprom.1845.1756.backup.7       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66121  vvprom.1845.1756.backup.8       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66214  vvprom.1845.1756.backup.9       snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66311  vvprom.1845.1756.backup.10      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66408  vvprom.1845.1756.backup.11      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+66501  vvprom.1845.1756.backup.12      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+ 1845  cib_db_bat_03                   snp  vcopy cib_db_onl_03                1756 RW normal               --      --        --    102400
+ 2394  cib_db_pre_03                   snp  vcopy cib_db_onl_03                1756 RW normal               --      --        --    102400
+66594  vvprom.1845.1756.backup.13      snp  vcopy cib_db_onl_03                1756 RO normal               --      --        --    102400
+ 2408  cib_db_post_03                  snp  vcopy cib_db_onl_03                1756 RW normal               --      --        --    102400
+ 1757 cib_db_onl_04                    tpvv base  ---                          1757 RW normal             1664   86400     86528    102400
+64507  vvprom.1847.1757.backup.40      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+64600  vvprom.1847.1757.backup.41      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+64693  vvprom.1847.1757.backup.42      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+64786  vvprom.1847.1757.backup.43      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+64883  vvprom.1847.1757.backup.44      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+64976  vvprom.1847.1757.backup.45      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65069  vvprom.1847.1757.backup.46      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65162  vvprom.1847.1757.backup.47      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65255  vvprom.1847.1757.backup.48      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65352  vvprom.1847.1757.backup.49      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65446  vvprom.1847.1757.backup         snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65540  vvprom.1847.1757.backup.2       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65632  vvprom.1847.1757.backup.3       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65725  vvprom.1847.1757.backup.4       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65846  vvprom.1847.1757.backup.5       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+65939  vvprom.1847.1757.backup.6       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66032  vvprom.1847.1757.backup.7       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66125  vvprom.1847.1757.backup.8       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66218  vvprom.1847.1757.backup.9       snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66315  vvprom.1847.1757.backup.10      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66412  vvprom.1847.1757.backup.11      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+66505  vvprom.1847.1757.backup.12      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+ 1847  cib_db_bat_04                   snp  vcopy cib_db_onl_04                1757 RW normal               --      --        --    102400
+ 2396  cib_db_pre_04                   snp  vcopy cib_db_onl_04                1757 RW normal               --      --        --    102400
+66598  vvprom.1847.1757.backup.13      snp  vcopy cib_db_onl_04                1757 RO normal               --      --        --    102400
+ 2410  cib_db_post_04                  snp  vcopy cib_db_onl_04                1757 RW normal               --      --        --    102400
+ 1758 cib_db_onl_05                    tpvv base  ---                          1758 RW normal             3328  114944    100864    102400
+64511  vvprom.1849.1758.backup.40      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+64604  vvprom.1849.1758.backup.41      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+64697  vvprom.1849.1758.backup.42      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+64790  vvprom.1849.1758.backup.43      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+64887  vvprom.1849.1758.backup.44      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+64980  vvprom.1849.1758.backup.45      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65073  vvprom.1849.1758.backup.46      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65166  vvprom.1849.1758.backup.47      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65259  vvprom.1849.1758.backup.48      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65356  vvprom.1849.1758.backup.49      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65450  vvprom.1849.1758.backup         snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65544  vvprom.1849.1758.backup.2       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65636  vvprom.1849.1758.backup.3       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65729  vvprom.1849.1758.backup.4       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65850  vvprom.1849.1758.backup.5       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+65943  vvprom.1849.1758.backup.6       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66036  vvprom.1849.1758.backup.7       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66129  vvprom.1849.1758.backup.8       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66222  vvprom.1849.1758.backup.9       snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66319  vvprom.1849.1758.backup.10      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66416  vvprom.1849.1758.backup.11      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+66509  vvprom.1849.1758.backup.12      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+ 1849  cib_db_bat_05                   snp  vcopy cib_db_onl_05                1758 RW normal               --      --        --    102400
+ 2398  cib_db_pre_05                   snp  vcopy cib_db_onl_05                1758 RW normal               --      --        --    102400
+66602  vvprom.1849.1758.backup.13      snp  vcopy cib_db_onl_05                1758 RO normal               --      --        --    102400
+ 2412  cib_db_post_05                  snp  vcopy cib_db_onl_05                1758 RW normal               --      --        --    102400
+ 1759 cib_db_onl_06                    tpvv base  ---                          1759 RW normal             4608  148352    102912    102400
+64515  vvprom.1851.1759.backup.40      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+64608  vvprom.1851.1759.backup.41      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+64701  vvprom.1851.1759.backup.42      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+64794  vvprom.1851.1759.backup.43      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+64891  vvprom.1851.1759.backup.44      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+64984  vvprom.1851.1759.backup.45      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65077  vvprom.1851.1759.backup.46      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65170  vvprom.1851.1759.backup.47      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65263  vvprom.1851.1759.backup.48      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65360  vvprom.1851.1759.backup.49      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65454  vvprom.1851.1759.backup         snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65548  vvprom.1851.1759.backup.2       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65640  vvprom.1851.1759.backup.3       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65733  vvprom.1851.1759.backup.4       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65854  vvprom.1851.1759.backup.5       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+65947  vvprom.1851.1759.backup.6       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66040  vvprom.1851.1759.backup.7       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66133  vvprom.1851.1759.backup.8       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66226  vvprom.1851.1759.backup.9       snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66323  vvprom.1851.1759.backup.10      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66420  vvprom.1851.1759.backup.11      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+66513  vvprom.1851.1759.backup.12      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+ 1851  cib_db_bat_06                   snp  vcopy cib_db_onl_06                1759 RW normal               --      --        --    102400
+ 2400  cib_db_pre_06                   snp  vcopy cib_db_onl_06                1759 RW normal               --      --        --    102400
+66606  vvprom.1851.1759.backup.13      snp  vcopy cib_db_onl_06                1759 RO normal               --      --        --    102400
+ 2414  cib_db_post_06                  snp  vcopy cib_db_onl_06                1759 RW normal               --      --        --    102400
+ 1760 cib_db_onl_07                    tpvv base  ---                          1760 RW normal             4480  149376    102912    102400
+64519  vvprom.1853.1760.backup.40      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+64612  vvprom.1853.1760.backup.41      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+64705  vvprom.1853.1760.backup.42      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+64798  vvprom.1853.1760.backup.43      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+64895  vvprom.1853.1760.backup.44      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+64988  vvprom.1853.1760.backup.45      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65081  vvprom.1853.1760.backup.46      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65174  vvprom.1853.1760.backup.47      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65267  vvprom.1853.1760.backup.48      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65364  vvprom.1853.1760.backup.49      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65458  vvprom.1853.1760.backup         snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65552  vvprom.1853.1760.backup.2       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65644  vvprom.1853.1760.backup.3       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65737  vvprom.1853.1760.backup.4       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65858  vvprom.1853.1760.backup.5       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+65951  vvprom.1853.1760.backup.6       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66044  vvprom.1853.1760.backup.7       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66137  vvprom.1853.1760.backup.8       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66230  vvprom.1853.1760.backup.9       snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66327  vvprom.1853.1760.backup.10      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66424  vvprom.1853.1760.backup.11      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+66517  vvprom.1853.1760.backup.12      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+ 1853  cib_db_bat_07                   snp  vcopy cib_db_onl_07                1760 RW normal               --      --        --    102400
+ 2402  cib_db_pre_07                   snp  vcopy cib_db_onl_07                1760 RW normal               --      --        --    102400
+66610  vvprom.1853.1760.backup.13      snp  vcopy cib_db_onl_07                1760 RO normal               --      --        --    102400
+ 2416  cib_db_post_07                  snp  vcopy cib_db_onl_07                1760 RW normal               --      --        --    102400
+ 2896 cib_extra1_01                    tpvv base  ---                          2896 RW normal              256       0     16896    102400
+   15 cib_sys1_01                      tpvv base  ---                            15 RW normal              384    8320     24192    102400
+ 2418  cib_sys1_pre_01                 snp  vcopy cib_sys1_01                    15 RW normal               --      --        --    102400
+ 2428  cib_sys1_post_01                snp  vcopy cib_sys1_01                    15 RW normal               --      --        --    102400
+   16 cib_sys1_02                      tpvv base  ---                            16 RW normal              384    9088     87040    102400
+ 2420  cib_sys1_pre_02                 snp  vcopy cib_sys1_02                    16 RW normal               --      --        --    102400
+ 2430  cib_sys1_post_02                snp  vcopy cib_sys1_02                    16 RW normal               --      --        --    102400
+   17 cib_sys1_03                      tpvv base  ---                            17 RW normal              384   24832     98816    102400
+ 2422  cib_sys1_pre_03                 snp  vcopy cib_sys1_03                    17 RW normal               --      --        --    102400
+ 2432  cib_sys1_post_03                snp  vcopy cib_sys1_03                    17 RW normal               --      --        --    102400
+   18 cib_sys1_04                      tpvv base  ---                            18 RW normal              512   12160    103040    102400
+ 2424  cib_sys1_pre_04                 snp  vcopy cib_sys1_04                    18 RW normal               --      --        --    102400
+ 2434  cib_sys1_post_04                snp  vcopy cib_sys1_04                    18 RW normal               --      --        --    102400
+   19 cib_sys1_05                      tpvv base  ---                            19 RW normal              512   10752     98560    102400
+ 2426  cib_sys1_pre_05                 snp  vcopy cib_sys1_05                    19 RW normal               --      --        --    102400
+ 2436  cib_sys1_post_05                snp  vcopy cib_sys1_05                    19 RW normal               --      --        --    102400
+ 1341 cibcivr_01                       tpvv base  ---                          1341 RW normal              256       0      8704     37888
+ 1713 cibcivr_02                       tpvv base  ---                          1713 RW normal              256       0     20992     37888
+ 1714 cibcivr_03                       tpvv base  ---                          1714 RW normal              256       0     16896     37888
+ 1715 cibcivr_04                       tpvv base  ---                          1715 RW normal              256       0     37376     37888
+ 1716 cibcivr_05                       tpvv base  ---                          1716 RW normal              256       0     12800     37888
+ 1717 cibcivr_06                       tpvv base  ---                          1717 RW normal              256       0      8704     37888
+   20 cibcuat_mo0_001                  tpvv base  ---                            20 RW normal              384   49024     74240    102400
+55533  cibcuat_mo0_001_Feb20           snp  vcopy cibcuat_mo0_001                20 RW normal               --      --        --    102400
+   21 cibcuat_mo0_002                  tpvv base  ---                            21 RW normal              384   73856    103040    102400
+55535  cibcuat_mo0_002_Feb20           snp  vcopy cibcuat_mo0_002                21 RW normal               --      --        --    102400
+   22 cibcuat_mo0_003                  tpvv base  ---                            22 RW normal              384   65408    103040    102400
+55537  cibcuat_mo0_003_Feb20           snp  vcopy cibcuat_mo0_003                22 RW normal               --      --        --    102400
+   23 cibcuat_mo0_004                  tpvv base  ---                            23 RW normal              384   98432    103040    102400
+55539  cibcuat_mo0_004_Feb20           snp  vcopy cibcuat_mo0_004                23 RW normal               --      --        --    102400
+   24 cibcuat_mo0_005                  tpvv base  ---                            24 RW normal              384   97920    103040    102400
+55541  cibcuat_mo0_005_Feb20           snp  vcopy cibcuat_mo0_005                24 RW normal               --      --        --    102400
+   25 cibcuat_mo0_006                  tpvv base  ---                            25 RW normal              384   98432    103040    102400
+55543  cibcuat_mo0_006_Feb20           snp  vcopy cibcuat_mo0_006                25 RW normal               --      --        --    102400
+   26 cibcuat_mo0_007                  tpvv base  ---                            26 RW normal              384   98432    103040    102400
+55545  cibcuat_mo0_007_Feb20           snp  vcopy cibcuat_mo0_007                26 RW normal               --      --        --    102400
+   27 cibcuat_mo0_008                  tpvv base  ---                            27 RW normal              384   98816    103040    102400
+55547  cibcuat_mo0_008_Feb20           snp  vcopy cibcuat_mo0_008                27 RW normal               --      --        --    102400
+  806 cibcuat_mo1_01                   tpvv base  ---                           806 RW normal              384   66048    102144    102400
+10498  cibcuat_mo1_bck_01              snp  vcopy cibcuat_mo1_01                806 RW normal               --      --        --    102400
+  807 cibcuat_mo1_02                   tpvv base  ---                           807 RW normal              384   16384    102912    102400
+10500  cibcuat_mo1_bck_02              snp  vcopy cibcuat_mo1_02                807 RW normal               --      --        --    102400
+  808 cibcuat_mo1_03                   tpvv base  ---                           808 RW normal              384   32256    102912    102400
+10502  cibcuat_mo1_bck_03              snp  vcopy cibcuat_mo1_03                808 RW normal               --      --        --    102400
+  809 cibcuat_mo1_04                   tpvv base  ---                           809 RW normal              384   16256    102912    102400
+10504  cibcuat_mo1_bck_04              snp  vcopy cibcuat_mo1_04                809 RW normal               --      --        --    102400
+  810 cibcuat_mo1_05                   tpvv base  ---                           810 RW normal              384   24448    102912    102400
+10506  cibcuat_mo1_bck_05              snp  vcopy cibcuat_mo1_05                810 RW normal               --      --        --    102400
+  811 cibcuat_mo1_06                   tpvv base  ---                           811 RW normal              384   16256    102912    102400
+10508  cibcuat_mo1_bck_06              snp  vcopy cibcuat_mo1_06                811 RW normal               --      --        --    102400
+  812 cibcuat_mo1_07                   tpvv base  ---                           812 RW normal              384   57216    102912    102400
+10510  cibcuat_mo1_bck_07              snp  vcopy cibcuat_mo1_07                812 RW normal               --      --        --    102400
+ 1494 cibcuat_mo2_01                   tpvv base  ---                          1494 RW normal              384    8064    103040    102400
+ 1495 cibcuat_mo2_02                   tpvv base  ---                          1495 RW normal              384    8064    103040    102400
+ 1496 cibcuat_mo2_03                   tpvv base  ---                          1496 RW normal              512    8064    103040    102400
+ 1497 cibcuat_mo2_04                   tpvv base  ---                          1497 RW normal              512    8064    103040    102400
+ 1498 cibcuat_mo2_05                   tpvv base  ---                          1498 RW normal              640    8064    102912    102400
+ 1499 cibcuat_mo2_06                   tpvv base  ---                          1499 RW normal              512    8064    102912    102400
+ 1500 cibcuat_mo2_07                   tpvv base  ---                          1500 RW normal              512    8064    103040    102400
+   28 cibcuat_mo3_01                   tpvv base  ---                            28 RW normal              256    8064    102912    102400
+   29 cibcuat_mo3_02                   tpvv base  ---                            29 RW normal              384    8064    102912    102400
+   30 cibcuat_mo3_03                   tpvv base  ---                            30 RW normal              384    8064    102912    102400
+   31 cibcuat_mo3_04                   tpvv base  ---                            31 RW normal              384    8064    102912    102400
+   32 cibcuat_mo3_05                   tpvv base  ---                            32 RW normal              384    8064    103040    102400
+   33 cibcuat_mo3_06                   tpvv base  ---                            33 RW normal              384    8064    103040    102400
+   34 cibcuat_mo3_07                   tpvv base  ---                            34 RW normal              384    8064    103040    102400
+ 2383 cibcuat_mo4_01                   tpvv base  ---                          2383 RW normal              384    8064    102912    102400
+64252  cibcuat_mo4_01_180628           snp  vcopy cibcuat_mo4_01               2383 RW normal               --      --        --    102400
+ 2384 cibcuat_mo4_02                   tpvv base  ---                          2384 RW normal              384    8064    102912    102400
+64254  cibcuat_mo4_02_180628           snp  vcopy cibcuat_mo4_02               2384 RW normal               --      --        --    102400
+ 2385 cibcuat_mo4_03                   tpvv base  ---                          2385 RW normal              384    8064    102912    102400
+64256  cibcuat_mo4_03_180628           snp  vcopy cibcuat_mo4_03               2385 RW normal               --      --        --    102400
+ 2386 cibcuat_mo4_04                   tpvv base  ---                          2386 RW normal              384    8064    103040    102400
+64258  cibcuat_mo4_04_180628           snp  vcopy cibcuat_mo4_04               2386 RW normal               --      --        --    102400
+ 2387 cibcuat_mo4_05                   tpvv base  ---                          2387 RW normal              384    8064     64000    102400
+64260  cibcuat_mo4_05_180628           snp  vcopy cibcuat_mo4_05               2387 RW normal               --      --        --    102400
+ 2388 cibcuat_mo4_06                   tpvv base  ---                          2388 RW normal              384    8064     90624    102400
+64262  cibcuat_mo4_06_180628           snp  vcopy cibcuat_mo4_06               2388 RW normal               --      --        --    102400
+  693 cibcuat_uat_01                   tpvv base  ---                           693 RW normal              256       0    103040    102400
+  694 cibcuat_uat_02                   tpvv base  ---                           694 RW normal              256       0    103040    102400
+  695 cibcuat_uat_03                   tpvv base  ---                           695 RW normal              256       0     57856    102400
+    4 cibcuat_vv_001                   tpvv base  ---                             4 RW normal              128       0       512    102400
+    3 cibcuat_vv_002                   tpvv base  ---                             3 RW normal              128       0       512    102400
+    5 cibcuat_vv_003                   tpvv base  ---                             5 RW normal              256       0      8192    102400
+    8 cibcuat_vv_004                   tpvv base  ---                             8 RW normal              256       0    102912    102400
+    9 cibcuat_vv_005                   tpvv base  ---                             9 RW normal              256       0    102912    102400
+   10 cibcuat_vv_006                   tpvv base  ---                            10 RW normal              256       0    102912    102400
+   11 cibcuat_vv_007                   tpvv base  ---                            11 RW normal              256       0    102912    102400
+   12 cibcuat_vv_008                   tpvv base  ---                            12 RW normal              256       0    102912    102400
+   13 cibcuat_vv_009                   tpvv base  ---                            13 RW normal              256       0    102912    102400
+   14 cibcuat_vv_010                   tpvv base  ---                            14 RW normal              256       0    102912    102400
+66357 dcv-0kbcl01.QvqS7Vi8wNXSAg       tpvv base  ---                         66357 RW normal              256    1024      1024      1024
+66359  dcs-Hrq5GkTmSEKLWaiR02CN-g      snp  vcopy dcv-0kbcl01.QvqS7Vi8wNXSAg  66357 RW normal               --      --        --      1024
+66646 dcv-agt1xsAGRdu9zTQZYyefgA       tpvv base  ---                         66646 RW normal              128     512       512     10240
+66356 dcv-Bu8OR24zRRuN0qJSa.nw1w       tpvv base  ---                         66356 RW normal              128     512       512      1024
+66641 dcv-GUvnHHTTRfaKgGcE6WyxIg       tpvv base  ---                         66641 RW normal              128     512       512     10240
+66639 dcv-j839Utd1Sz6.bJQEJApegA       tpvv base  ---                         66639 RW normal              128     512       512     10240
+66640 dcv-M5HMZDNeReW5FEceOVx6SA       tpvv base  ---                         66640 RW normal              128     512       512     10240
+66645 dcv-UY.HyZ71S3SaaYdIu5iNOg       tpvv base  ---                         66645 RW normal              128     512       512     10240
+66642 dcv-YXQgoQnjQzCRjxutO6FKdg       tpvv base  ---                         66642 RW normal              256     512      1024     10240
+66644  dcs-XkfWpE6oRL2VSJI2eT4niQ      snp  vcopy dcv-YXQgoQnjQzCRjxutO6FKdg  66642 RW normal               --      --        --     10240
+ 8925 ina-ifstorpocd2-db-rdm01         tpvv base  ---                          8925 RW normal             1536  118656    783616   1126400
+ 8927  ina-ifstorpocd2-db.golden       snp  vcopy ina-ifstorpocd2-db-rdm01     8925 RW normal               --      --        --   1126400
+ 9041  ina-ifstorpocd2-db.golden2      snp  vcopy ina-ifstorpocd2-db-rdm01     8925 RW normal               --      --        --   1126400
+ 8924 ina-ifstorpocd2-output-rdm01     tpvv base  ---                          8924 RW normal              256       0      8704    204800
+ 3958 timeuat_gen_01                   tpvv base  ---                          3958 RW normal              640       0    614912   1048576
+12302 timeuat_gen_02                   tpvv base  ---                         12302 RW normal              896     512   1023360   1048576
+65393 timeuat_gen_03                   tpvv base  ---                         65393 RW normal              512       0    442368    614400
+  663 whale-output-rdm01               tpvv base  ---                           663 RW normal              384    8320     66048    307200
+ 2172  whale-output-rdm01.160607135756 snp  vcopy whale-output-rdm01            663 RW normal               --      --        --    307200
